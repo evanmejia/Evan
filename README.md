@@ -7,4 +7,4 @@ My profile
 * GitLab: https://github.com/evanmejia
 * LinkedIn: https://www.linkedin.com/in/evanmejia/
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evanmejia)](https://github.com/anuraghazra/github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=evanmejia&layout=compact&hide_border=true&bg_color=0d1117&title_color=008080&text_color=8b949e&icon_color=8b949e)
